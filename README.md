@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linkxy14
-- 👀 I’m interested in ... game modding, game building, 3DS CFW, and metroidvanias.
-- 🌱 I’m currently learning ... Python, GML (visual and code), 
-- 💞️ I’m looking to collaborate on ... too late, man. I'm already collabing with someone else. (if you have an idea and want to collab thought I can totally still collab)
+- 👀 I’m interested in ... pretty much just game development at the moment
+- 🌱 I’m currently learning ... how to get by in life 
+- 💞️ I’m looking to collaborate on ... kinda busy atm
 - 📫 How to reach me ... dallinofficer@gmail.com would be the easiest. I'm also available on GameJolt by the same name, as well as Discord, Chess.com (no, really), and some other stuff. Email me for details.
 
 <!---
